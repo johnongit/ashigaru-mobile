@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.samourai.wallet.settings.CustomPreference
+        android:title="@string/options_version"
+        android:summary="@string/about_us"
+        android:key="about"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+    <com.samourai.wallet.settings.CustomPreference
+        android:title="Software license"
+        android:summary="GNU GPL v3"
+        android:key="license"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+    <com.samourai.wallet.settings.CustomPreference
+        android:title="Website and resources"
+        android:summary="ashigaru.rs"
+        android:key="license"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+</PreferenceScreen>

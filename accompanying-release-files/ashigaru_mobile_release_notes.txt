@@ -1,0 +1,16 @@
+{
+  "version": "v1.0.0",
+  "notes": {
+    "important": [
+    ],
+    "new": [
+    ],
+    "updates": [
+    ],
+    "fixes": [
+    ],
+    "other": [
+      "Please find details for this initial v1.0.0 release in the accompanying news post found at ashigaru.rs/news"
+    ]   
+  }
+}

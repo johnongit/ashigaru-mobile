@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <CheckBoxPreference
+        android:title="@string/options_autosave_backup"
+        android:summary="@string/options_autosave_backup2"
+        android:defaultValue="true"
+        android:key="autoBackup"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+    <CheckBoxPreference
+        android:title="@string/options_scramble_pin"
+        android:summary="@string/options_scramble_pin2"
+        android:defaultValue="true"
+        android:key="scramblePin"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+    <CheckBoxPreference
+        android:title="@string/options_haptic"
+        android:summary="@string/options_haptic_2"
+        android:defaultValue="true"
+        android:key="haptic"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+    <Preference
+        android:title="@string/options_mnemonic"
+        android:summary="@string/options_mnemonic2"
+        android:key="mnemonic"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+    <Preference
+        android:title="@string/stealth_mode"
+        android:summary="@string/enable_stealth_mode_to_protect"
+        android:key="stealth"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+    <Preference
+        android:title="@string/options_xpub"
+        android:summary="@string/options_xpub2"
+        android:key="xpub"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+    <Preference
+        android:title="@string/options_xpub49"
+        android:summary="@string/options_xpub49_2"
+        android:key="ypub"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+    <Preference
+        android:title="@string/options_xpub84"
+        android:summary="@string/options_xpub84_2"
+        android:key="zpub"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+    <Preference
+        android:title="@string/options_xpub84_premix"
+        android:summary="@string/options_xpub84_premix2"
+        android:key="zpub_pre"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+    <Preference
+        android:title="@string/options_xpub84_postmix"
+        android:summary="@string/options_xpub84_postmix2"
+        android:key="zpub_post"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+    <Preference
+        android:title="@string/options_xpub44_postmix"
+        android:summary="@string/options_xpub44_postmix2"
+        android:key="zpub_post_x"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+    <Preference
+        android:title="@string/options_xpub49_postmix"
+        android:summary="@string/options_xpub49_postmix2"
+        android:key="zpub_post_y"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+    <Preference
+        android:title="@string/options_xpub84_badbank"
+        android:summary="@string/options_xpub84_badbank2"
+        android:key="zpub_badbank"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+    <Preference
+        android:title="@string/options_xpub84_swapsmain"
+        android:summary="@string/options_xpub84_swapsmain2"
+        android:key="zpub_swapsmain"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+    <Preference
+        android:title="@string/options_xpub84_swapsrefund"
+        android:summary="@string/options_xpub84_swapsrefund2"
+        android:key="zpub_swapsrefund"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+    <Preference
+        android:title="@string/options_xpub84_swapsasbmain"
+        android:summary="@string/options_xpub84_swapsasbmain2"
+        android:key="zpub_swapsasbmain"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+    <Preference
+        android:title="@string/options_change_pin"
+        android:summary="@string/options_change_pin2"
+        android:key="change_pin"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+    <Preference
+        android:title="@string/options_export"
+        android:summary="@string/options_export2"
+        android:key="export"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+
+    <Preference
+        android:title="@string/options_wipe"
+        android:summary="@string/options_wipe2"
+        android:key="wipe"
+        app:iconSpaceReserved="false"
+        app:allowDividerBelow="true"
+        app:allowDividerAbove="true"
+        />
+</PreferenceScreen>

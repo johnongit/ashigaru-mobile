@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+latest_ashigaru_mobile_version=v1.0.0
+
+ashigaru_mobile_release_notes.txt_sha256hash=58e1907eadd261fe5ed1e2d2f2289af0598660b4b095146f8e4b4cd61fb03f0a
+
+latest_ashigaru_mobile_apk=ashigaru_mobile_v1.0.0.apk
+
+latest_ashigaru_mobile_apk_sha256hash=71d10276591e1d293272bc451b26948693be154c13ecdc1f1a7e69931cc316e7
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERF+AeZb3BYa3Fce4oTgGsfoqZ2sFAmbsUl0ACgkQoTgGsfoq
+Z2t4Tw/+NXCbu6ctP85vljtGvTBIYwH5aD9HC515J0VdNL6eY1sy0DbZJaYW5CCW
+eaDcKDecNkjfbONjFLLOP0eweVGaGfLTXi9pKHwKvudtGXxkE6jd5OWphgf5WCem
+YctZ4bzAQ8o+t419UJ1ehukQHgZKjpB5aAyn132XVpGIpVG/Gv4YLrLwhHUZI3BN
+pAJGhie7ncPfpy4CJ8o3IEp7C7TKgyUrNzaRg2GBG3icgDWfQfyMp/J0NQ2yzHJE
+dEJZ+61NsUzTU3Mc+35ufFXgjVsLaWcztA2BYCPhodHpuCbPKwnbFsl3rCk5mYDm
+h9AuR4I+8WVuls+TVBEo/n1zoWCc8EzAwGPOLRvvsBrc10rSCb2undnnFJ3ElZQ0
+f6uDnBI5PHO8IuB32S/Ki8sLKSf7Gz0eTwxH2GQxzOCbcFfJ1OSolWGK0zKiY87v
+20x3kyoc2lVPcmLyGxV4S1Jj39gnqgvkzTTqvMvVKc4fO8ssEhivubKjRi6WslKT
+rIt5QPVATVkV/C3v4ctZJkPJIPvT5OtBWPx4pyKJl4mxaB01/EEd2TcHlROX551o
++Do63M8l/1t9XWLBkgp+TegAX4eqU/8sk7misHAm/SWPmnIAslLGalJCX4sHjWo/
+xFUA1y7WPYTgAy5JplabpSR/TkXmS5mt+wDgQ1jAlI5gWERXLA8=
+=vaz/
+-----END PGP SIGNATURE-----
